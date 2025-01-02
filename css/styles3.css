@@ -1,0 +1,50 @@
+
+  
+  /** HEADER **/
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 2px solid black;
+}
+.navbar-default .navbar-brand {
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #000;
+    border: 2px solid black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    text-align: center;
+    border-top: 2px solid black;
+    padding: 5px 0;
+
+}
+
+.visible-lg, .visible-md, .visible-sm, .visible-xs {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1 {
+    text-align: center;  /* Centra el texto */
+    color: black;         /* Cambia el color del texto (puedes usar cualquier color o código hex) */
+    font-size: 36px;     /* Cambia el tamaño de la fuente */
+}
+
+.col-12 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px 20px 20px 20px;
+    height: 1000px;
+}
+  
+
+   
